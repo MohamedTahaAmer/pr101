@@ -6,4 +6,5 @@
  - test 5r
  - test 63
  stash test
+ - conflict test
 */
