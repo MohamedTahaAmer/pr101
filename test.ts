@@ -7,5 +7,6 @@
  - test 63
  stash test
  -  - conflict remote
+ -  - conflict remote 1
 
 */
