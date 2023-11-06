@@ -7,6 +7,6 @@
  - test 63
  stash test
  -  - conflict remote 5 - main--5
- - test--9
+ - main--9
 
 */
